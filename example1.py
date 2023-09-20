@@ -1,10 +1,12 @@
+num = int (input (“Enter any number to test whether it is odd or even: “)
 
-# Python program to check if the input number is odd or even.
-
->>>>>>> a4c7ea197cbd57cb7b8bc9330e97626eb45f9cd1
-num = int(input("Enter a number: "))
 if (num % 2) == 0:
-   print("{0} is Even".format(num))
+
+              print (“The number is even”)
+
 else:
-   print("{0} is Odd".format(num))
+
+              print (“The provided number is odd”)
+
+Output:
 
